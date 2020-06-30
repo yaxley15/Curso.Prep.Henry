@@ -1,0 +1,11 @@
+Variables: son espacios utilizados para almacenar valores de distintos tipos que luego son utilizados en el procesamiento de la información.
+
+Strings: Son cadenas de caracteres que pueden formar palabras.
+
+Funciones: Son porciones de códigos que se declaran de forma independientes porque se las invoca de forma reiterada.
+Argumentos: Son valores que se les transfiere a las funciones para que completen una operación.
+Return:  Es el valor procesado que devuelve la función.
+
+Declaraciones if:  Permite condicionar la ejecución de un proceso en base a los resultados arrojados.
+
+Valores Booleanos:  Son valores lógicos que nos permiten operar con condicionantes. 
