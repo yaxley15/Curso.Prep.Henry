@@ -1,0 +1,7 @@
+For: Es un comando que permite realizar operaciones repetitivas bajo alguna condición que determina el final del ciclo.
+
+&&: Es un operador booleano que opera como Y en una operación lógica, permitiendo concatenar dos condiciones.
+
+||: Es un operador booleano que opera como O en una operación lógica, también permite concatenar condiciones.
+
+!: Es un negador, convierte al valor que lo precede que en su opuesto.
