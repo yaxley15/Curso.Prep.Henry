@@ -1,0 +1,1 @@
+Array:  es una cadena de datos que se van almacenando en forma de listas donde a cada elemento le corresponde una posición determinada. Los elementos pueden ser de muchos tipos: enteros, strings, booleanos, etc.
