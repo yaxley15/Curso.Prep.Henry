@@ -1,0 +1,10 @@
+Objetos: son variables que se definen para poder manejarlos con múltiples datos, sumándoles una dimensión más de acción que a los arrays
+
+Propiedades: es la forma en que hago referencia a una posición dentro del objeto.
+
+Métodos: se llaman así a las funciones definidas dentro de los objetos.
+
+Bucle for in: son Bucles específicos para los objetos, ya que estos no usan índices numéricos como los arrays.
+
+Notación de puntos Vs Corchetes:  la notación de puntos es más sencilla de escribir mientras que con los corchetes es más flexible a la hora de realizar determinadas operaciones.
+
