@@ -1,0 +1,3 @@
+Prototype: es la forma por la cual podemos crear métodos únicos que podemos asociar a múltiples objetos para que estos no necesiten replicarse por cada objeto que debemos crear.
+
+Constructores: aún no lo entiendo...
